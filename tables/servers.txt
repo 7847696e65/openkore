@@ -13,16 +13,15 @@
 [ggh]
 ip 18.136.20.146
 port 6900
-master_version 15
+master_version 5
 version 15
-serverType kRO
+serverType idRO_Renewal
 secureLogin 0
 secureLogin_type 0
 secureLogin_requestCode
 secureLogin_account 0
 serverEncoding Western
-storageEncryptKey 0x050B6F79, 0x0202C179, 0x0E20120, 0x04FA43E3, 0x0179B6C8, 0x05973DF2, 0x07D8D6B, 0x08CB9ED9
-addTableFolders kRO
+addTableFolders idRO
 charBlockSize 147
 pinCode 1
 charDeleteDateType 1
