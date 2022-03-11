@@ -3,7 +3,7 @@
 
 ######## Login options and server-specific options ########
 
-master Indonesia - idRO: Yggdrasil
+master
 server
 username maintroy
 password 7brg4$70wtzP
