@@ -13,7 +13,7 @@
 [ggh]
 ip 18.136.20.146
 port 6900
-master_version 5
+master_version 1
 version 15
 serverType idRO_Renewal
 secureLogin 0
@@ -298,8 +298,8 @@ addTableFolders translated/kRO_english;kRO
 # configure serverType, serverEncoding, charBlockSize according to your server
 [XKore 2]
 ip localhost
-port 6901
-serverType
+port 6900
+serverType 15
 serverEncoding Western
 addTableFolders translated/kRO_english;kRO
 charBlockSize

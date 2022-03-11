@@ -3,7 +3,7 @@
 
 ######## Login options and server-specific options ########
 
-master ggh
+master XKore 2
 server
 username maintroy
 password 7brg4$70wtzP
@@ -37,7 +37,7 @@ XKore_ID
 
 # It is not advised to set secureAdminPassword if you're using Xkore 2
 secureAdminPassword 1
-adminPassword 
+adminPassword yobaidri
 callSign
 commandPrefix ;
 callSignGM 0
