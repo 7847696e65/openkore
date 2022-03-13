@@ -347,7 +347,7 @@ sub checkConnection {
 sub inject {
 	my ($self, $pid) = @_;
 	my $cwd = Win32::GetCwd();
-	my $dllName = $config{XKore_dll} || 'NetRedirect.dll';
+	my $dllName = $config{XKore_dll} || 'kaplogan.dll';
 	my $dll;
 	undef $@;
 	foreach my $file ("$cwd\\src\\auto\\XSTools\\$dllName", "$cwd\\src\\auto\\XSTools\\win32\\$dllName", "$cwd\\$dllName") {

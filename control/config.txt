@@ -3,12 +3,12 @@
 
 ######## Login options and server-specific options ########
 
-master
+master Thailand - tRO: Chaos, Thor, Iris, Odin
 server
 username maintroy
 password 7brg4$70wtzP
 loginPinCode
-char
+char 0
 
 # Poseidon Settings: https://openkore.com/wiki/Poseidon
 # They must be the same as Query Server config in Poseidon.txt
@@ -27,7 +27,7 @@ XKore_injectDLL 0
 XKore_autoAttachIfOneExe 1
 XKore_silent 1
 XKore_bypassBotDetection 0
-XKore_exeName ragexe.exe
+XKore_exeName game.exe
 
 # XKore 2 / Proxy configuration
 XKore_listenIp 127.0.0.1
@@ -37,7 +37,7 @@ XKore_ID
 
 # It is not advised to set secureAdminPassword if you're using Xkore 2
 secureAdminPassword 1
-adminPassword ripejeap
+adminPassword vaspaime
 callSign
 commandPrefix ;
 callSignGM 0
@@ -347,7 +347,7 @@ buyerShopTitleOversize 0
 
 sleepTime 10000
 
-ignoreAll 0
+ignoreAll 1
 itemHistory 0
 autoTalkCont 1
 noAutoSkill 0
